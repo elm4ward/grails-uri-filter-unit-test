@@ -3,12 +3,12 @@ Grails Test App for unit testing uri based filters
 
 This is a vanilla grails app.
 Added:
- * UriFilters.groovy
- * UriController.groovy
- * UriFiltersTest.groovy
+* UriFilters.groovy
+* UriController.groovy
+* UriFiltersTest.groovy
  
 Modified:
- * UrlMappings.groovy
+* UrlMappings.groovy
  
 Installation
 ------------
